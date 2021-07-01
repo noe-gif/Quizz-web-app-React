@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is available here:(https://naruto-quizz.firebaseapp.com/).
+This project is available <a href='https://naruto-quizz.firebaseapp.com/'>here</a>
 
 ## Available Scripts
 
