@@ -1,0 +1,11 @@
+Documentation Personelle React 
+
+JSX -> le "html" dans React
+
+camel-case 
+
+style={{width: '10px'}}
+
+les variables toujours déclarées hors de la classe ou dans le render() {...}
+
+(méthode = fonction(stateless component)) -> props sont présents évidement! -> MAIS : this.props est FAUX : juste props.blabla -> et du coup : fonction name(props) {}
